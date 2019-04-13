@@ -24,3 +24,5 @@ I have been **programming** for 3 years and I love learning new technologies. I 
 | Major  | Computer Science | 
 
 ### Commands
+![alt text](./page1.png)
+![alt text](./page2.png)
